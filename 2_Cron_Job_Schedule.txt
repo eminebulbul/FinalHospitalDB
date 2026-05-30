@@ -1,0 +1,1 @@
+0 3 * * * /bin/bash /Users/bulbul/Desktop/otomasyon/Advanced_Auto_Backup.sh
