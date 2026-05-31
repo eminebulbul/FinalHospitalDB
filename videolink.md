@@ -1,0 +1,1 @@
+1. proje videosu; https://youtu.be/wjUK_Z0KZjw
