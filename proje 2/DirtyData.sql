@@ -3,3 +3,8 @@ INSERT INTO raw_patients (full_name, phone_number, birth_date, blood_type) VALUE
 ('ahmet YILMAZ', '0532 123 4567', '2030-01-01', 'B-'), -- Doğum tarihi mantıksız (Gelecekte)
 ('   Ayşe Demir   ', '05559998877', '1995-05-15', '0+'), -- İsimde gereksiz boşluklar var
 ('mehmet kaya', '', '1980-11-20', 'AB+');         -- Telefon numarası boş (Empty string)
+
+
+
+
+

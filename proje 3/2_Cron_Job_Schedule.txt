@@ -1,1 +1,5 @@
-0 3 * * * /bin/bash /Users/bulbul/Desktop/otomasyon/Advanced_Auto_Backup.sh
+0 3 * * * /bin/bash /Users/bulbul/Desktop/4.sınıf2.dönem/ag/projeler/proje 3/otomasyon/Advanced_Auto_Backup.sh
+
+
+
+
